@@ -1,0 +1,64 @@
+# Sales Analytics Dashboard – Power BI Project
+
+This project showcases an end-to-end Sales Analytics Dashboard built using Power BI. 
+It includes insights on store performance, category trends, fiscal month variance, 
+and geographic sales distribution.
+
+The dashboard helps business stakeholders monitor key sales metrics, identify 
+high-performing areas, and track YoY (Year-over-Year) growth.
+
+---
+
+##  Key Insights & Features
+
+###  Overview Page
+- Total Sales: $22M
+- YoY comparison & variance
+- Sales by Chain (Fashions Direct vs Lindseys)
+- New Stores added this year
+- Geographic distribution of store sales (map)
+
+###  District Monthly Sales Page
+- Monthly sales trend: Last Year vs This Year
+- Total Sales Variance % by Fiscal Month
+- Top stores by chain and name
+- Category-level analysis: Avg $/Unit, variance, and performance clusters
+
+###  New Stores Page
+- Performance of newly opened stores
+- YoY variance for new stores
+- Table showcasing chain → district → store breakdown
+- Visuals showing increases and decreases over time
+
+###  Units Sold by Store
+- Top stores ranked by total units sold
+- Quick way to identify high-volume contributors
+
+---
+
+##  Dashboard Preview
+
+### Overview Page
+![Overview](images/overview_sales.png)
+
+### District Monthly Sales
+![District Sales](images/district_sales.png)
+
+### New Stores Performance
+![New Stores](images/new_stores.png)
+
+### Units Sold by Store
+![Units by Store](images/units_by_store.png)
+
+---
+
+## Tech Stack
+
+- **Power BI**
+- **DAX Measures**
+- **Data Modeling**
+- **Excel / CSV Source Data**
+- **Visualization & KPI Reporting**
+
+
+

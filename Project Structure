@@ -1,0 +1,5 @@
+Sales-Analytics-Dashboard/
+│
+├── dashboard/           # Power BI file
+├── images/              # Dashboard snapshots for README
+└── README.md            # Project documentation
